@@ -8,7 +8,7 @@ Due to Github space constraints lectures can be found at this [Google Drive link
 
 **Note**: You can run all notebooks in this repository interactively by:
 
-* using the [Binder](http://mybinder.org/) hosting service by clicking here: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/diego898/mlf-bmif-6315-2019/master)
+* using the [Binder](http://mybinder.org/) hosting service by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diego898/mlf-bmif-6315-2019/master)
 * uploading all files in this repository to Google's new [Colaboratory Notebook Service](colab.research.google.com/)
 
 # Resources
